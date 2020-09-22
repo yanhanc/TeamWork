@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/cover.png</file>
+        <file>image/ptn_back.png</file>
+        <file>image/ptn_back2.png</file>
+        <file>image/ptn_back3.png</file>
+        <file>image/add_back.png</file>
+        <file>image/add_back2.png</file>
+        <file>image/template (6).png</file>
+        <file>image/template (8).png</file>
+        <file>image/template (9).png</file>
+        <file>image/template (7).png</file>
+        <file>image/template (10).png</file>
+    </qresource>
+</RCC>
